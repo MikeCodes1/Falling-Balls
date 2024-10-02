@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Working Final Balls Game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Working Final Balls Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Working Final Balls Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AllBalls.cpp" />
+		<Unit filename="AllBalls.h" />
+		<Unit filename="AllObjects.cpp" />
+		<Unit filename="AllObjects.h" />
+		<Unit filename="Ball.cpp" />
+		<Unit filename="Ball.h" />
+		<Unit filename="CMakeList.txt" />
+		<Unit filename="Font.cpp" />
+		<Unit filename="Font.h" />
+		<Unit filename="Force.cpp" />
+		<Unit filename="Force.h" />
+		<Unit filename="Functions.cpp" />
+		<Unit filename="Functions.h" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.h" />
+		<Unit filename="SDL_Plotter.cpp" />
+		<Unit filename="SDL_Plotter.h" />
+		<Unit filename="Text/0.txt" />
+		<Unit filename="Text/1.txt" />
+		<Unit filename="Text/2.txt" />
+		<Unit filename="Text/3.txt" />
+		<Unit filename="Text/4.txt" />
+		<Unit filename="Text/5.txt" />
+		<Unit filename="Text/6.txt" />
+		<Unit filename="Text/7.txt" />
+		<Unit filename="Text/8.txt" />
+		<Unit filename="Text/9.txt" />
+		<Unit filename="Text/A.txt" />
+		<Unit filename="Text/C.txt" />
+		<Unit filename="Text/E.txt" />
+		<Unit filename="Text/G.txt" />
+		<Unit filename="Text/I.txt" />
+		<Unit filename="Text/K.txt" />
+		<Unit filename="Text/L.txt" />
+		<Unit filename="Text/M.txt" />
+		<Unit filename="Text/P.txt" />
+		<Unit filename="Text/R.txt" />
+		<Unit filename="Text/S.txt" />
+		<Unit filename="Text/T.txt" />
+		<Unit filename="Text/V.txt" />
+		<Unit filename="Text/Y.txt" />
+		<Unit filename="Text/space.txt" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

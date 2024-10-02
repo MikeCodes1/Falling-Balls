@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1703095452 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\main.cpp
+	"AllObjects.h"
+	"Font.h"
+	"Functions.h"
+
+1703102346 c:\users\mymys\onedrive\desktop\cs1\working final balls game\allobjects.h
+	<vector>
+	"Object.h"
+	"AllBalls.h"
+	<ctime>
+
+1703095624 c:\users\mymys\onedrive\desktop\cs1\working final balls game\object.h
+	"Ball.h"
+
+1703095680 c:\users\mymys\onedrive\desktop\cs1\working final balls game\ball.h
+	"SDL_Plotter.h"
+	<cmath>
+	"Force.h"
+
+1703095776 c:\users\mymys\onedrive\desktop\cs1\working final balls game\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1703095815 c:\users\mymys\onedrive\desktop\cs1\working final balls game\force.h
+	<cmath>
+	<ostream>
+
+1703095875 c:\users\mymys\onedrive\desktop\cs1\working final balls game\allballs.h
+	"Ball.h"
+
+1703095912 c:\users\mymys\onedrive\desktop\cs1\working final balls game\font.h
+	"SDL_Plotter.h"
+	<string>
+	<fstream>
+	<cmath>
+
+1703095962 c:\users\mymys\onedrive\desktop\cs1\working final balls game\functions.h
+	"SDL_Plotter.h"
+
+1703100454 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\allballs.cpp
+	"AllBalls.h"
+
+1703100622 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\ball.cpp
+	"Ball.h"
+
+1703100744 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\font.cpp
+	"Font.h"
+
+1703101758 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\force.cpp
+	"force.h"
+
+1703101864 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\functions.cpp
+	"Functions.h"
+
+1703101987 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\object.cpp
+	"Object.h"
+
+1703101987 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1703100578 source:c:\users\mymys\onedrive\desktop\cs1\working final balls game\allobjects.cpp
+	"AllObjects.h"
+
